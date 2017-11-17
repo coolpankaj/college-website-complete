@@ -1,0 +1,24 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#add{
+	width:70%;
+	height: 450px;
+	
+	background-color: #2F4F4F;
+	/*background-color: yellow;*/
+	color: white;
+	float: left;
+	/*border: 2px solid red;*/
+	
+}
+#enquiry{
+	width: 30%;
+	height: 450px;
+	background-color:lightblue;
+	float: right;
+	
+	
+
+}
